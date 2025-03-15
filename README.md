@@ -79,7 +79,7 @@ This program defines a `Student` class and calculates the average marks of five 
 This program demonstrates the use of inheritance, polymorphism, and encapsulation by implementing a library management system. Different types of books are available (Printed books, E-books, and Audiobooks).
 
 **Output:**  
-![Screenshot (450)](https://github.com/user-attachments/assets/47700ae9-d7da-419a-a25c-5abc31ce62a1)
+![Screenshot (451)](https://github.com/user-attachments/assets/13fc1684-c88b-4d5f-ab70-0ffc944f0799)
 
 
 ---
@@ -89,8 +89,7 @@ This program demonstrates the use of inheritance, polymorphism, and encapsulatio
 This project implements a Retail Store Management System with inheritance, polymorphism, and encapsulation. It can handle different types of products (fruits, vegetables, and groceries) and provides functionality to add, edit, delete, and display products.
 
 **Output:**  
-![Screenshot (451)](https://github.com/user-attachments/assets/13fc1684-c88b-4d5f-ab70-0ffc944f0799)
-
+![Screenshot (450)](https://github.com/user-attachments/assets/47700ae9-d7da-419a-a25c-5abc31ce62a1)
 
 ---
 
